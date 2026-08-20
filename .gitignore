@@ -1,0 +1,20 @@
+# Secretos: este repo es PUBLICO. Nada de esto puede salir de la maquina.
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+credentials/
+google_token.json
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
