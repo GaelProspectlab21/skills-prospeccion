@@ -88,8 +88,8 @@ Andrea, vi que están buscando un closer en su web.
 
 Normalmente cuando una agencia contrata a alguien de ventas es porque ya
 tiene con qué llenarle la agenda, o porque quiere que él se la llene. Si es
-lo segundo, es justo lo que hacemos: le llevamos reuniones agendadas para
-que no tenga que prospectar.
+lo segundo, es justo lo que hacemos: le armamos la prospección por correo
+para que el closer tenga con quién hablar.
 
 ¿Te paso un ejemplo de cómo se ve eso?
 
@@ -100,10 +100,36 @@ PD si ya lo tienen resuelto por dentro, ignórame sin culpa.
 
 Fíjate: 68 palabras, un solo dato, una pregunta fácil, y la posdata le da salida.
 
+## Claude inventa clientes. Se lo prohíbes por escrito
+
+Si le pides "pon un caso de éxito", **se lo inventa con toda seguridad**: un nombre de
+empresa, una cifra, un resultado. Y tu prospecto lo puede buscar.
+
+Por eso, antes de escribir, le das **la lista de pruebas**: lo único que puede afirmar,
+sacado de la web o de los datos reales de quien firma. Por ejemplo:
+
+```
+Lo único que puedes usar como prueba:
+- Más de 500 vacantes del sector cubiertas.
+- Garantía de reemplazo por escrito.
+- 18 años en el sector.
+No nombres a ningún cliente. Si no está en esta lista, no lo afirmes.
+```
+
+**Y aun así lees los correos antes de mandarlos.** La máquina repite, la persona decide.
+
+## La voz es la de quien firma
+
+Si el correo sale a nombre de otra persona (tu cliente, tu socio), **escribe como esa
+persona**, no como tú. Una directora de reclutamiento no le escribe a otro director como
+un chavo de 20 años, y al revés tampoco. Si suena a alguien que no es quien firma, suena
+falso.
+
 ## Reglas
 
 - **Un correo, una idea.** No metas tres servicios.
 - **Cero adjuntos y cero enlaces en el primer correo.** Bajan la entrega y parecen anuncio.
-- **Revisa el nombre.** Escribir "Hola María" a Andrea es peor que no escribir.
+- **Revisa el nombre.** Escribirle "María" a Andrea es peor que no escribir.
+- **Ningún cliente con nombre** que no esté en la lista de pruebas, con permiso.
 - **Léelo en voz alta.** Si no lo dirías así hablando, reescríbelo.
 - **La posdata es de las partes más leídas.** No la desperdicies con "quedo atento".

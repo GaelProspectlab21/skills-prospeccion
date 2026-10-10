@@ -25,6 +25,11 @@ Puesto:      fundador, CEO, director. Nunca "empleado"
 salir escuelas de marketing, software de marketing y freelancers de marketing. Escribe la
 lista de exclusión antes de buscar, no después.
 
+**Si Claude te dice cuántas empresas o personas hay, es una hipótesis.** Lo estima, no lo
+mide, y suele quedarse muy arriba. El número lo da la herramienta cuando corres el filtro.
+Si usas una herramienta de pago, pídele a Claude que traduzca tu definición a sus filtros
+y revisa cuatro cosas antes de correr: sector, tamaño, área del puesto y nivel del puesto.
+
 ## Paso 2: el mini-test de 10. Este paso no se salta
 
 **Antes de sacar mil, saca diez.** Cuesta centavos y te dice si el nicho entero sirve.

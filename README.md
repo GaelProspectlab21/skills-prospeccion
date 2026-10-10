@@ -9,7 +9,7 @@ scrapear, se integra solo, pero para empezar no hace falta.
 
 **Empieza por la 0.** Te hace un diagnóstico, te dice de frente si el correo en frío te
 conviene o no, y deja escrito un `CLAUDE.md` con tu negocio. A partir de ahí las otras
-cinco dejan de ser genéricas y trabajan con tu contexto.
+siete dejan de ser genéricas y trabajan con tu contexto.
 
 ---
 
@@ -45,9 +45,11 @@ C:\mi-negocio\.claude\skills\2-arma-tu-lista\SKILL.md
 C:\mi-negocio\.claude\skills\3-limpia-tu-lista\SKILL.md
 C:\mi-negocio\.claude\skills\4-investiga-tus-leads\SKILL.md
 C:\mi-negocio\.claude\skills\5-escribe-el-correo\SKILL.md
+C:\mi-negocio\.claude\skills\6-verifica-tus-correos\SKILL.md
+C:\mi-negocio\.claude\skills\7-prepara-el-envio\SKILL.md
 ```
 
-**4. Abre Claude Code en esa carpeta y escribe `/`.** Deberían aparecer las seis.
+**4. Abre Claude Code en esa carpeta y escribe `/`.** Deberían aparecer las ocho.
 
 Si no aparecen, cierra Claude Code y ábrelo otra vez. Las skills se leen al arrancar.
 
@@ -64,6 +66,8 @@ Corren en cadena. Cada una necesita lo que hizo la anterior.
 3. limpia-tu-lista         →  quita a los que nunca te van a comprar
 4. investiga-tus-leads     →  el dato concreto de cada uno
 5. escribe-el-correo       →  el correo, con ese dato
+6. verifica-tus-correos    →  solo entran los que existen  (mejor justo después de la 3)
+7. prepara-el-envio        →  los cimientos: que llegue a la bandeja
 ```
 
 **La 0 corre una vez y te ahorra repetirte.** Deja un `CLAUDE.md` con tu negocio que las
@@ -94,7 +98,7 @@ podrías mandar igual a otra empresa, todavía no está listo.
 
 Para que no te lleves una sorpresa:
 
-- No mandan los correos. Eso lo haces tú o con una herramienta de envío.
+- No mandan los correos. La 7 te deja la herramienta de envío configurada, el botón lo das tú.
 - No consiguen correos que no estén publicados en algún lado.
 - No arreglan una oferta que no le interesa a nadie. Si nadie te compra en caliente,
   tampoco te van a comprar en frío.
